@@ -4,9 +4,4 @@
 Simple interface just add a website and name to save the QR code as, the output will be in the same folder the program is in
 
 To-do
-* Add an option to remove a background in a png 🔳
-* optimize code ✔
-* new GUI ✔
-* link website to button ✔
-* turn jpg/png to ico 🔳
 
